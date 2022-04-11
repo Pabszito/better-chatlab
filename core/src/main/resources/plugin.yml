@@ -1,0 +1,5 @@
+name: BetterChatLab
+version: ${project.parent.version}
+main: com.github.pabszito.betterchatlab.BetterChatLab
+authors: [ Pabszito, Jonakls ]
+description: ChatLab done right.
